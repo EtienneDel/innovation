@@ -1,0 +1,43 @@
+.containerGlobal {
+    position: absolute;
+    left:0;
+    top:0;
+    background-color: #434343;
+    width: 100vw;
+    height: 100vh;
+}
+
+.containerTop {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+}
+.containerMiddle {
+    position: absolute;
+    top: 44%;
+    text-align: center;
+    z-index: 100;
+    width: 100%;
+}
+
+.containerBottom {
+    position: absolute;
+    bottom:0;
+    left: 0;
+    width: 100%;
+}
+
+.top {
+    position: absolute;
+    top:0;
+    left:0;
+    width: 100%;
+}
+
+.bottom {
+    position: absolute;
+    bottom:0;
+    left:0;
+    width: 100%;
+}
